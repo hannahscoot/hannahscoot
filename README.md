@@ -4,7 +4,7 @@ I am Hannah Scott, recently finished my BSC in Mathematics @[The University of W
 
 Current WIP Project:
 
-[![Website hannahscoot.github.io](https://img.shields.io/website-up-down-green-red/https/hannahscoot.github.io.svg)](https://hannahscoot.github.io/)
+[![Website hannahscott.xyz](https://img.shields.io/website-up-down-green-red/https/hannahscoot.github.io.svg)](https://hannahscott.xyz/)
 
 ## ✨ My Software
 
