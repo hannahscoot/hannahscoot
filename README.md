@@ -1,10 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=hannahscoot&color=blue)  
 
-## Welcome?!       
+## Welcome    
 
-I'm Hannah Scott, recently recieved a BSC in Mathematics @[The University of Warwick](https://warwick.ac.uk/), June 2021. 
-
-Working as a full-time software developer, so occasionally things might get thrown up here.
+I'm Hannah Scott, working as a full-time software developer, so occasionally projects might appear here. I recieved a BSC in Mathematics @[The University of Warwick](https://warwick.ac.uk/), June 2021. 
 
 Feel free to connect with me [here](mailto:hscott1279@outlook.com?subject=[GitHub])
 
